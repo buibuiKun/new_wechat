@@ -1,0 +1,7 @@
+{
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle":"dark",
+    "navigationBarTextStyle":"#fff",
+    "onReachBottomDistance": 50,
+    "disableScroll": false
+} 
